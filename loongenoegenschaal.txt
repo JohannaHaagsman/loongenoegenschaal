@@ -5,9 +5,9 @@ Uit te werken in code:
 04. bereken het werkelijke nettoloon bij werkelijke aantal werkuren
 	nettomaandloon_real = (nettomaandloon / 40) * werkuren (en print)
 	Probleempje hierbij: als int wordt het afgerond, en is er nogal een
-	verschil dan, hoe los ik dat op?
+	verschil dan, hoe los ik dat op > float
 05. voer de reiskostenvergoeding per maand in (en print)
-06. tel deze op bij het nettomaandloon_real (en print)
+06. tel deze op bij het nettomaandloon_real (hier kan ik nog een grap inbouwen > bijvoorbeeld als je minder dan een bepaald percentage krijgt > you're fucked (en print)
 07. voer het aantal maanden in dat men gaat werken, en vermenigvuldig dit 
 	met dat bedrag (en print)
 08. voer het totale vakantiegeld in voor die periode (en print)
@@ -15,7 +15,7 @@ Uit te werken in code:
 10. tel 08 en 09 op bij het bedrag van 07 (en print totaal bedrag werkperiode)
 11. deel dit bedrag door het aantal maanden bij 07 (en print)
 12. voer de reiskosten die je hebt in per maand (en print)
-13. trek dit af van het bedrag bij 11 (en print, totaal bedrag per maand)
+13. trek dit af van het bedrag bij 11 (en print, totaal bedrag per maand)(en wederom flauwe grap)
 14. print aantal werkuren
 15. voer aantal uren forensen per week in (en print)
 16. tel 14 en 15 bij elkaar op (en print, totaal uren per week)
