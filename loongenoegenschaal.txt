@@ -1,0 +1,24 @@
+Uit te werken in code:
+01. voer de naam van de werknemer in (en print)
+02. voer het netto maandloon in bij 40 uur ( en print)
+03. voer het te werken aantal werkuren in (en print)
+04. bereken het werkelijke nettoloon bij werkelijke aantal werkuren
+	nettomaandloon_real = (nettomaandloon / 40) * werkuren (en print)
+	Probleempje hierbij: als int wordt het afgerond, en is er nogal een
+	verschil dan, hoe los ik dat op?
+05. voer de reiskostenvergoeding per maand in (en print)
+06. tel deze op bij het nettomaandloon_real (en print)
+07. voer het aantal maanden in dat men gaat werken, en vermenigvuldig dit 
+	met dat bedrag (en print)
+08. voer het totale vakantiegeld in voor die periode (en print)
+09. voer een evt dertiende maand en/of bonus in voor die periode (en print)
+10. tel 08 en 09 op bij het bedrag van 07 (en print totaal bedrag werkperiode)
+11. deel dit bedrag door het aantal maanden bij 07 (en print)
+12. voer de reiskosten die je hebt in per maand (en print)
+13. trek dit af van het bedrag bij 11 (en print, totaal bedrag per maand)
+14. print aantal werkuren
+15. voer aantal uren forensen per week in (en print)
+16. tel 14 en 15 bij elkaar op (en print, totaal uren per week)
+17. vermenigvuldig deze met 4,3 (en print, totaal uren per maand)
+18. deel totaal bedrag per maand van 13 door de uren van 17 (en print
+	afgerond het cijfer)
